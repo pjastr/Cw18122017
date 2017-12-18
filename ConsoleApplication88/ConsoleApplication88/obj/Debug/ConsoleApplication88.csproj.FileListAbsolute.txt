@@ -1,0 +1,6 @@
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication88\ConsoleApplication88\bin\Debug\ConsoleApplication88.exe.config
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication88\ConsoleApplication88\bin\Debug\ConsoleApplication88.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication88\ConsoleApplication88\bin\Debug\ConsoleApplication88.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication88\ConsoleApplication88\obj\Debug\ConsoleApplication88.csprojResolveAssemblyReference.cache
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication88\ConsoleApplication88\obj\Debug\ConsoleApplication88.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication88\ConsoleApplication88\obj\Debug\ConsoleApplication88.pdb
