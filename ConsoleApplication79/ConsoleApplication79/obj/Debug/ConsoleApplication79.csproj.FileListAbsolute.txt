@@ -1,0 +1,6 @@
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication79\ConsoleApplication79\bin\Debug\ConsoleApplication79.exe.config
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication79\ConsoleApplication79\bin\Debug\ConsoleApplication79.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication79\ConsoleApplication79\bin\Debug\ConsoleApplication79.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication79\ConsoleApplication79\obj\Debug\ConsoleApplication79.csprojResolveAssemblyReference.cache
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication79\ConsoleApplication79\obj\Debug\ConsoleApplication79.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication79\ConsoleApplication79\obj\Debug\ConsoleApplication79.pdb

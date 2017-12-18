@@ -1,0 +1,5 @@
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication81\ConsoleApplication81\bin\Debug\ConsoleApplication81.exe.config
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication81\ConsoleApplication81\bin\Debug\ConsoleApplication81.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication81\ConsoleApplication81\bin\Debug\ConsoleApplication81.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication81\ConsoleApplication81\obj\Debug\ConsoleApplication81.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication81\ConsoleApplication81\obj\Debug\ConsoleApplication81.pdb
